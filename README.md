@@ -1,6 +1,6 @@
 # QA Automation Portfolio — SauceDemo
 
-[![CI](https://github.com/USERNAME/qa-automation-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/qa-automation-portfolio/actions)
+[![CI](https://github.com/AzaTT14/qa-automation-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/AzaTT14/qa-automation-portfolio/actions)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Selenium](https://img.shields.io/badge/selenium-4.x-green)
 ![pytest](https://img.shields.io/badge/pytest-8.x-orange)
@@ -59,7 +59,7 @@ qa-automation-portfolio/
 ## Running locally
 
 ```bash
-git clone https://github.com/USERNAME/qa-automation-portfolio.git
+git clone https://github.com/AzaTT14/qa-automation-portfolio.git
 cd qa-automation-portfolio
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
@@ -91,4 +91,4 @@ Every push and pull request triggers the GitHub Actions workflow (`.github/workf
 ## About me
 
 QA Engineer, manual + growing automation skillset. Open to remote / Astana-based roles.
-📍 Kazakhstan · 💼 [LinkedIn](#) · ✉️ [email](#)
+📍 Kazakhstan · 💼 [LinkedIn](https://www.linkedin.com/in/azat-dautbaev-5578213a5/) · ✉️ [email](mailto:azatforse@gmail.com)
