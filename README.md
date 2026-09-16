@@ -91,4 +91,5 @@ Every push and pull request triggers the GitHub Actions workflow (`.github/workf
 ## About me
 
 QA Engineer, manual + growing automation skillset. Open to remote / Astana-based roles.
-📍 Kazakhstan · 💼 [LinkedIn](https://www.linkedin.com/in/azat-dautbaev-5578213a5/) · ✈️ [Telegram](https://t.me/OzaTT) · ✉️ azatforse@gmail.com
+📍 Kazakhstan · 💼 [LinkedIn](https://www.linkedin.com/in/azat-dautbaev-5578213a5/) · ✈️ [Telegram](https://t.me/OzaTT) 
+✉️ azatforse@gmail.com
